@@ -1,0 +1,38 @@
+idan0610
+305681132
+Idan Refaeli
+
+I discussed the exercise with: Eyel Cohen, Amit Tropp.
+
+=============================
+=  README for ex6  =
+=============================
+
+usage: python3.4
+
+==================
+=  Description:  =
+==================
+1. palindrome.py - Palindrome tests
+2. balanced_brackets.py - Tests for balanced brackets on strings
+3. test_strings_2a.txt - Test string for task 2a
+4. test_strings_2b.txt - Test string for task 2b
+5. test_strings_2c.txt - Test string for task 2c
+6. y_tree.py - Drawing a y_tree using turtle
+7. README - This file
+
+=============================
+=  List of submitted files: =
+=============================
+
+palindrome.py
+balanced_brackets.py
+test_strings_2a.txt
+test_strings_2b.txt
+test_strings_2c.txt
+y_tree.py
+README
+
+======================
+=  Special Comments  =
+======================
